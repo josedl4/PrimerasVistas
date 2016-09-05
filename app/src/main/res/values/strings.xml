@@ -2,4 +2,5 @@
     <string name="app_name">PrimerasVistas</string>
     <string name="guardar_automaticamente">Guardar automaticamente</string>
     <string name="datos">Datos</string>
+    <string name="introduce_un_numero">Introduce un numero</string>
 </resources>
