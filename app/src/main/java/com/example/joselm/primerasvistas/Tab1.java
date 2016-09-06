@@ -16,6 +16,9 @@ import android.widget.TextView;
  */
 public class Tab1 extends Fragment{
 
+    private EditText entrada;
+    private TextView salida;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
